@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 17px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+h3
+{
+	font-size: 25px;
+	font-weight: 800;
+}
+#button
+{
+	background-color: lightskyblue;
+}
